@@ -209,17 +209,17 @@ body {
     padding: 20px;
     margin-top: 50px;
     padding-right: 140px;
-    width: 200px;
+    /* width: 200px;
     right: 160px;
-    top: 100px;
+    top: 100px; */
 }
 
 #ap2 {
     z-index: 30;
     position: absolute;
-    top: 330px;
+    /* top: 330px;
     right: 30px;
-    width: 300px;
+    width: 300px; */
     padding: 20px;
     margin-top: 290px;
 
